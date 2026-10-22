@@ -1,0 +1,13 @@
+*.bin
+*.pt
+*.pth
+*.safetensors
+*.gguf
+*.onnx
+*.msgpack
+*.h5
+*.ckpt
+*.weights
+.cache/
+models/
+__pycache__/
